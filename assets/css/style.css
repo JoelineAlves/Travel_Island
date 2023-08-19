@@ -1,3 +1,22 @@
+/* General */
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.row {
+    margin: 0;
+}
+
+.container {
+    padding: 70px 0;
+}
+
+p,
+li {
+    color: #444;
+    font-size: 14px;
+}
+
 /* My Navbar */
 header,
 .navbar {
@@ -35,4 +54,50 @@ header,
 
 .navbar-expand-lg .navbar-nav .nav-link {
     padding: 1rem 0.8rem;
+}
+
+/* Carousel */
+
+.container-fluid {
+    padding: 0;
+}
+
+#mainSlider .carousel-inner,
+#mainSlider .carousel-item {
+    height: 90vh;
+}
+
+#mainSlider .carousel-caption {
+    top: 30%;
+}
+
+#mainSlider .carousel-caption h2 {
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+#mainSlider .carousel-caption p {
+    font-size: 22px;
+    font-weight: 300;
+    margin-bottom: 100px;
+    color: #fff;
+}
+
+.carousel-indicators .active {
+    background-color: #65daf9;
+}
+
+
+/* slider images */
+
+.image-container img {
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
+
+
+}
+
+/* the hover set on the image makes the image description easy to see */
+.image-container:hover img {
+    opacity: 0.5;
 }
