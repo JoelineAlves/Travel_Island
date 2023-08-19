@@ -197,3 +197,22 @@ footer {
     color: white;
     opacity: 1;
 }
+
+/* Footer Bottom */
+.footerBottom {
+    background-color: #000000B3;
+    padding: 20px;
+    text-align: center;
+}
+
+.footerBottom p {
+    color: rgba(255, 166, 0, 0.959);
+}
+
+.designer {
+    opacity: 0.7;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 400;
+    margin: 0px 5px;
+}
