@@ -1,0 +1,38 @@
+/* My Navbar */
+header,
+.navbar {
+    background-color: #000000B3;
+}
+
+#nav-container {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#logo {
+    width: 75px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.navbar-brand img {
+    padding: 0;
+    color: #fff;
+}
+
+.navbar-brand img:hover {
+    color: #fff;
+}
+
+#navbar-links a {
+    color: rgba(255, 166, 0, 0.959);
+}
+
+#navbar-links a:hover {
+    color: #fff;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 1rem 0.8rem;
+}
