@@ -241,7 +241,12 @@ footer {
     }
 }
 
-/* Gallery */
+/* About page */
+.about-heading {
+    margin-top: 6rem;
+}
+
+/* Gallery page */
 #photo {
     clear: both;
     line-height: 0;
