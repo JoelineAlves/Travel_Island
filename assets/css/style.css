@@ -67,6 +67,7 @@ header,
 
 /* Carousel */
 
+
 .container-fluid {
     padding: 0;
 }
@@ -89,7 +90,8 @@ header,
     font-size: 22px;
     font-weight: 300;
     margin-bottom: 100px;
-    color: #fff;
+    color: white;
+    text-decoration: ;
 }
 
 .carousel-indicators .active {
@@ -242,8 +244,12 @@ footer {
 }
 
 /* About page */
-.about-heading {
+#about-area {
     margin-top: 6rem;
+}
+
+.about-heading {
+    padding: 5%;
 }
 
 /* Gallery page */
@@ -258,4 +264,9 @@ footer {
 
 #photo img {
     width: 100%;
+}
+
+/* Contact Page */
+.bg-color-contact {
+    background-color: white;
 }
