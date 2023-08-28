@@ -90,13 +90,20 @@ header,
     font-size: 22px;
     font-weight: 300;
     margin-bottom: 100px;
-    color: white;
-    text-decoration: ;
+
 }
 
-.carousel-indicators .active {
-    background-color: #65daf9;
+.carousel-caption {
+    color: rgb(40, 40, 40);
 }
+
+.carousel-caption:hover {
+    color: rgb(40, 40, 40);
+}
+
+
+
+
 
 
 /* slider images */
