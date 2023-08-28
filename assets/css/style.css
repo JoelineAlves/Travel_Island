@@ -171,7 +171,7 @@ footer {
 .socialIcons a {
     text-decoration: none;
     padding: 10px;
-    background-color: white;
+    background-color: #fafafa;
     margin: 10px;
     border-radius: 50%;
 }
@@ -189,7 +189,7 @@ footer {
 }
 
 .socialIcons a:hover i {
-    color: grey;
+    color: #808080;
     transition: 0.5s;
 }
 
@@ -214,7 +214,7 @@ footer {
 }
 
 .footerNav ul li a:hover {
-    color: white;
+    color: #fafafa;
     opacity: 1;
 }
 
@@ -275,7 +275,7 @@ footer {
 
 /* Contact Page */
 .bg-color-contact {
-    background-color: white;
+    background-color: #fafafa;
 }
 
 .contact-heading {
