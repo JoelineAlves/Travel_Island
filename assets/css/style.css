@@ -44,6 +44,10 @@ header,
     -webkit-transition: all .5s ease-in-out;
 }
 
+.navbar-toggler-icon {
+    background-color: rgba(255, 166, 0, 0.959);
+}
+
 .navbar-brand img {
     padding: 0;
     color: #fff;
@@ -243,14 +247,7 @@ footer {
 
 }
 
-.about-heading::after {
-    content: "";
-    border-top: 2px solid #333;
-    width: 15%;
-    position: absolute;
-    top: 60px;
-    left: 42.5%;
-}
+
 
 
 
