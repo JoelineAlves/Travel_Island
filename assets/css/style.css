@@ -296,6 +296,15 @@ footer {
 button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 20px;
-    color: #fafafa;
-    background-color: #e84610;
+    color: #808080;
+    background-color: rgba(255, 166, 0, 0.959);
+}
+.socialIcons a:hover {
+    background-color: rgba(255, 166, 0, 0.959);
+    transition: 0.5s;
+}
+
+.socialIcons a:hover i {
+    color: #808080;
+    transition: 0.5s;
 }
