@@ -80,41 +80,40 @@
     </header>
     <!--The Main-->
     <main class="container-fluid">
-      <div class="row bg-color-contact">
-        <div class="col">
-          <h3 class="contact-heading uppercase text-center">
-            Do you want to know more about the Travel Island?
-          </h3>
-          <h5 class="uppercase text-center">Let us know!</h5>
-          <div class="form-container">
-            <form>
-              <input
-                type="text"
-                name="name"
-                id="fullname"
-                placeholder="Name"
-                required
-              /><br />
-              <input
-                type="email"
-                name="email"
-                id="emailaddress"
-                placeholder="Email"
-                required
-              /><br />
-              <textarea
-                name="message"
-                name="activityname"
-                id="activityname"
-                placeholder="Activity description"
-                required
-              ></textarea
-              ><br />
-              <input type="submit" value="Submit" />
-            </form>
-          </div>
-        </div>
-      </div>
+      <section class="form-section">
+        <form method="POST" action="https://formdump.codeinstitute.net/">
+          <h2>Let's get you signed up!</h2>
+          <label for="fname">First Name</label>
+          <input type="text" id="fname" name="first_name" required />
+          <label for="lname">Last Name</label>
+          <input type="text" id="lname" name="last_name" required />
+          <label for="email">Email Address</label>
+          <input type="email" id="email" name="email_address" required />
+          <label for="road">Road</label>
+          <input
+            type="radio"
+            id="road"
+            name="running_preference"
+            value="road"
+          />
+          <label for="trail">Trail</label>
+          <input
+            type="radio"
+            id="trail"
+            name="running_preference"
+            value="trail"
+            required
+          />
+          <label for="both">Both</label>
+          <input
+            type="radio"
+            id="both"
+            name="running_preference"
+            value="both"
+          />
+          <input type="submit" value="Let's Run!" />
+        </form>
+      </section>
       <div id="contact-details">
         <h2>Contact Information</h2>
         <p>Address: Mindelo, São Vicente, Cabo Verde</p>

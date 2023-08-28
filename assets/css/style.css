@@ -82,7 +82,7 @@ header,
 }
 
 #mainSlider .carousel-caption h2 {
-    font-size: 50px;
+    font-size: 70px;
     margin-bottom: 30px;
 }
 
@@ -90,36 +90,14 @@ header,
     font-size: 22px;
     font-weight: 300;
     margin-bottom: 100px;
-    
-
+    color: #fff;
 }
 
-.carousel-caption {
-    color: rgb(40, 40, 40);
-}
-
-.carousel-caption:hover {
-    color: rgb(40, 40, 40);
+.carousel-indicators .active {
+    background-color: #65daf9;
 }
 
 
-
-
-
-
-/* slider images */
-
-.image-container img {
-    opacity: 1;
-    transition: opacity 0.5s ease-in-out;
-
-
-}
-
-/* the hover set on the image makes the image description easy to see */
-.image-container:hover img {
-    opacity: 0.5;
-}
 
 /* Service Area */
 
@@ -258,7 +236,25 @@ footer {
 
 .about-heading {
     padding: 5%;
+    color: #444;
+    margin: 0 0 65px 0;
+    font-size: 40px;
+    text-align: center;
+
 }
+
+.about-heading::after {
+    content: "";
+    border-top: 2px solid #333;
+    width: 15%;
+    position: absolute;
+    top: 60px;
+    left: 42.5%;
+}
+
+
+
+
 
 /* Gallery page */
 #photo {
@@ -272,6 +268,20 @@ footer {
 
 #photo img {
     width: 100%;
+}
+
+
+@media screen and (max-width: 943px) {
+    #photo {
+        column-count: 3;
+
+    }
+}
+
+@media screen and (max-width:800px) {
+    #photo {
+        column-count: 2;
+    }
 }
 
 /* Contact Page */
@@ -295,3 +305,5 @@ footer {
     justify-content: center;
 
 }
+
+.form
