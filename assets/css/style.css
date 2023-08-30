@@ -74,12 +74,16 @@ header,
 
 .container-fluid {
     padding: 0;
+
 }
 
+
+
+/*aqui
 #mainSlider .carousel-inner,
 #mainSlider .carousel-item {
     height: 90vh;
-}
+} */
 
 #mainSlider .carousel-caption {
     top: 30%;
