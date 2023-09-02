@@ -338,6 +338,8 @@ footer {
 }
 
 /* Form */
+
+
 .formBox {
     position: relative;
     width: 100%;
@@ -395,6 +397,10 @@ footer {
     font-weight: 500;
     cursor: pointer;
     padding: 14px 15px;
+}
+
+.inputBox input[type="submit"]:hover {
+    color: rgba(255, 166, 0, 0.959);
 }
 
 .inputBox ::placeholder {
