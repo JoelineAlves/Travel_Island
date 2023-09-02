@@ -1,20 +1,13 @@
-html {
-    height: 100%;
-    /* this gonna make my footer to be on the bottom*/
-}
-
 /* General */
 body {
     font-family: "Roboto", sans-serif;
     /* make my footer to be on the bottom */
-    min-height: 100%;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
-}
-
-.row {
     margin: 0;
 }
+
 
 .container {
     padding: 70px 0;
@@ -196,7 +189,12 @@ footer {
     background-color: #000000B3;
     padding: 20px;
     text-align: center;
+
+}
+
+.footerBottom p {
     color: rgba(255, 166, 0, 0.959);
+
 }
 
 
