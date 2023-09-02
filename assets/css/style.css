@@ -272,23 +272,25 @@ footer {
 }
 
 /* Contact Page */
-.bg-color-contact {
-    background-color: #fafafa;
-}
 
-.contact-heading {
-    font-family: "Robot", sans-serif;
-    font-weight: 300;
-    margin-top: 12rem;
-    margin-bottom: 20px;
+
+#contact {
+    background: linear-gradient(90deg, rgba(255, 166, 0, 0.959) 0%, rgba(255, 166, 0, 0.959)25%, #000000B3 25%, #000000B3 0%);
 
 }
 
+.contactUS {
+    position: relative;
+    width: 100%;
+    padding: 40px 100px;
 
+}
 
-/* Form Contact */
-.form_container {
+.contactUS .title {
     display: flex;
     justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+
 
 }
