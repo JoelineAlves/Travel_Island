@@ -20,14 +20,9 @@ body {
     padding: 70px 0;
 }
 
-p,
-li {
-    color: #444;
-    font-size: 14px;
-}
 
 /* My Navbar */
-header,
+
 .navbar {
     background-color: #000000B3;
 }
@@ -46,15 +41,6 @@ header,
 
 .navbar-toggler-icon {
     background-color: rgba(255, 166, 0, 0.959);
-}
-
-.navbar-brand img {
-    padding: 0;
-    color: #fff;
-}
-
-.navbar-brand img:hover {
-    color: #fff;
 }
 
 #navbar-links a {
@@ -78,31 +64,24 @@ header,
 }
 
 
-
-/*aqui
-#mainSlider .carousel-inner,
-#mainSlider .carousel-item {
-    height: 90vh;
-} */
-
-#mainSlider .carousel-caption {
-    top: 30%;
+.carousel-caption {
+    top: 12%;
 }
 
-#mainSlider .carousel-caption h2 {
-    font-size: 70px;
-    margin-bottom: 30px;
+.carousel-caption h2 {
+    font-size: 55px;
+    margin-bottom: 60px;
 }
 
-#mainSlider .carousel-caption p {
-    font-size: 22px;
+.carousel-caption p {
+    font-size: 35px;
     font-weight: 300;
     margin-bottom: 100px;
     color: #fff;
 }
 
 .carousel-indicators .active {
-    background-color: #65daf9;
+    background-color: rgba(255, 166, 0, 0.959);
 }
 
 
@@ -135,6 +114,12 @@ header,
     color: #444;
     text-transform: uppercase;
     font-weight: bold;
+}
+
+.service-box p {
+    font-size: 14px;
+    color: #444;
+
 }
 
 /* footer */
