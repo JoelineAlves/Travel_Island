@@ -120,55 +120,46 @@ Book Now | ![Desktop book now wireframe image](assets/wireframes/desktop-book-no
 - **Footer**
 ![Footer image](assets/readme_files/footer.png)
 
-  - The footer includes the links to all pages and link to the travel Island social media channels.
+  - The footer includes the links to all pages and social media links to stay connected to the Travel Island.
 
-### Landing Page
+### Home Page
 
-- **Main Image**
-![Main image](assets/readme-files/main-image.png)
+- **Carousel Image**
+- ![Main image](assets/readme_files/carousel.png)
+  
+- Carousel with beautiful images and descriptions of the attractions of the Cape Verde islands.
 
-  - The main image is designed to attract the customer's attention and represents the nature surrounding the business.
+- **Cards Image**
+- ![Main image](assets/readme_files/activities.png)
+  
+- Cards with Information about the best activities on the islands.
 
-- **About Us Section**
-![About us section image](assets/readme-files/about-us.png)
+### About Page
 
-  - Contains a text with information about the business as well as an eye-catching image.
+- **About Travel Island**
+![About page image](assets/readme_files/about_us.png)
 
-- **Contact Section**
-![Contact section image](assets/readme-files/contact.png)
+  - It contains text with information about what the purpose of Travel Island is and also an attractive image of Cape Verde.
 
-  - Contains a text with useful geographical information as well as contact details such as the business' physical address, email and phone number.
+### Contact Page
 
-### Treatments Page
+- **Get in Touch**
+![Contact page image](assets/readme_files/contact.png)
 
-- **Treatment Sections**
-![Treatment section image](assets/readme-files/treatment-section-example.png)
+- It contains a form if you want to know more about the site, as well as contact details such as the company's physical address, email and telephone number, and it also contains a geographical map of Travel Island's location.
 
-  - The treatment section contains an image to illustrate the respective treatment and a short text with an explanation of the treatment.
+### Gallery Page
 
-  - A link to the book now page has been added to each section for easy navigation.
+- **Gallery**
+![Gallery page image](assets/readme-files/treatment-section-example.png)
 
-  - Each treatment section is fully responsive and easy to replicate in case more treatments need to be added by the business.
+- The gallery page provides several photos of different places on the islands, from beaches, mountains, cities.
 
-### Book Now Page
+- Contains photos of different typical foods, festive festivities, such as the famous carnival.
 
-- **Book Now Form**
-![Book now form image](assets/readme-files/book-now-form.png)
+- Contains photos of the various activities that can be done, such as water activities, sunsets, hiking.
 
-  - The form allows the customer to book the desired treatment on a specific date directly from the business' website.
-
-- **Find Us Section**
-![Find us section image](assets/readme-files/find-us.png)
-
-  - This section displays a Google map of the business' geographical location. This allows the customers to easily find the location from their devices.
-
-### 404 Error Page
-
-![404 error page image](assets/readme-files/404-error-page.png)
-
-- This single page is being shown in case the customer enters an incorrect address into the address bar. It contains a link to the landing page.
-
-[Back to top ⇧](#pura-vida-spa)
+- Contains a photo of the great singer known worldwide in music.
 
 ## Technologies Used
 
@@ -180,22 +171,19 @@ Book Now | ![Desktop book now wireframe image](assets/wireframes/desktop-book-no
 ### Frameworks, Libraries and Programs Used
 
 - [Google Fonts](https://fonts.google.com/)
-  - Google Fonts was used to import the fonts Raleway, Cabin and Qahiri into the style.css file. These fonts were used throughout the site.
+  - Google Fonts was used to import the Roboto font into the style.css file. This font was used throughout the site.
 
 - [Font Awesome](https://fontawesome.com/)
   - Font Awesome was used throughout all pages to add icons in order to create a better visual experience for UX purposes.
 
-- [TinyPNG](https://tinypng.com/)
-  - TinyPNG was used to reduce the file size of the images for the website.
-
-- [GitPod](https://gitpod.io/)
-  - GitPod was used for writing code, committing, and then pushing to GitHub.
+- [Codeanywhere](https://codeanywhere.com/)
+  - Codeanywhere was used for writing code, committing, and then pushing to GitHub.
 
 - [GitHub](https://github.com/)
   - GitHub was used to store the project after pushing.
 
-- [Balsamiq](https://balsamiq.com/)
-  - Balsamiq was used to create the wireframes during the design phase of the project.
+- [Figma](https://www.figma.com/)
+  - Figma was used to create the wireframes during the design phase of the project.
 
 - [Am I Responsive?](http://ami.responsivedesign.is/#)
   - Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
