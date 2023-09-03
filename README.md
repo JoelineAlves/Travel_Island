@@ -1,6 +1,6 @@
 # Travel Island
 
-![Travel Island  mockup images](assets/readme-files/mockup-image.png)
+![Travel Island  mockup images](assets/readme_files/mockup.jpg)
 
 Travel Island is an online platform that aims to make known the services and tourist activities that visitors and lovers of the islands of Cape Verde will have the opportunity to do
 during their travels.
@@ -98,7 +98,7 @@ Index | ![Desktop index wireframe image](assets/wireframes/desktop-index.png) | 
 Treatments | ![Desktop treatments wireframe image](assets/wireframes/desktop-treatments.png) | ![Mobile treatments wireframe image](assets/wireframes/mobile-treatments.png)
 Book Now | ![Desktop book now wireframe image](assets/wireframes/desktop-book-now.png) | ![Mobile book now wireframe image](assets/wireframes/mobile-book-now.png)
 
-[Back to top ⇧](#pura-vida-spa)
+[Back to top ⇧](#travel-island)
 
 ## Features
 
@@ -125,12 +125,12 @@ Book Now | ![Desktop book now wireframe image](assets/wireframes/desktop-book-no
 ### Home Page
 
 - **Carousel Image**
-- ![Main image](assets/readme_files/carousel.png)
+![Main image](assets/readme_files/carousel.png)
   
 - Carousel with beautiful images and descriptions of the attractions of the Cape Verde islands.
 
 - **Cards Image**
-- ![Main image](assets/readme_files/activities.png)
+![Main image](assets/readme_files/activities.png)
   
 - Cards with Information about the best activities on the islands.
 
@@ -185,9 +185,6 @@ Book Now | ![Desktop book now wireframe image](assets/wireframes/desktop-book-no
 - [Figma](https://www.figma.com/)
   - Figma was used to create the wireframes during the design phase of the project.
 
-- [Am I Responsive?](http://ami.responsivedesign.is/#)
-  - Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
-
 - [Responsive Design Checker](https://www.responsivedesignchecker.com/)
   - Responsive Design Checker was used in the testing process to check responsiveness on various devices.
 
@@ -200,39 +197,37 @@ Book Now | ![Desktop book now wireframe image](assets/wireframes/desktop-book-no
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
   - W3C CSS Validator was used to validate the CSS code.
 
-[Back to top ⇧](#pura-vida-spa)
+[Back to top ⇧](#travel-island)
 
 ## Testing
 
 ### Testing User Stories
 
-- As a customer, I want to be able to navigate the website intuitively and learn more about the business and treatments being offered.
+- As a user, I want to be able to navigate the website intuitively and learn more about the Travel Island and the activities and services offered.
 
-  - The website offers a intuitive structure for the customers to navigate and find the information they are looking for.
+  - The website offers a intuitive structure for the users to navigate and find the information they are looking for.
 
-  - The navigation bar is clearly presented in all pages for the customers to find with ease and it is easily navigable.
+  - The navigation bar is clearly presented in all pages even in the footer for the users to find with ease and it is easily navigable.
 
-- As a customer, I want to be able to read more about the treatments available.
+- As a user, I want to be able to read more about the activities available.
 
-  - The treatments page presents all treatments available, each on their own section.
+  - The gallery page provides several photos of different places, foods, festive festivities on the islands.
 
-  - Each treatment section contains useful information about the respective treatment.
+  - Each card activities  contains useful information about the respective activity.
 
-- As a customer, I want to easily find the contact information for the business.
+- As a user, I want to easily find the contact information for the Travel Island.
 
-  - The landing page contains a clear contact section with all necessary business' contacts
+  - The Contact page contains a clear contact section with all necessary Travel Island contacts.
 
-- As a customer, I want to find social media links to the business.
+- As a user, I want to find social media links to the Travel Island.
 
-  - The footer provides link to the business' social media channels.
+  - The footer provides link to the social media channels.
 
-- As a customer, I want to be able to book a treatment directly from the website.
+- As a user, I want to be able to send a message directly from the website.
 
-  - The book now page provides a book now form for the customer to book and schedule their next treatment.
+  - As a user, I want to easily find the Travel Island location.
 
-- As a customer, I want to easily find the business' location.
-
-  - The book now page contains a find us section with a Google map of the business' geographical location.
+- The Contact page contains a section with a Google map of the Travel Island geographical location.
 
 ### Code Validation
 
