@@ -255,45 +255,11 @@ Book Now | ![Desktop book now wireframe image](assets/wireframes/desktop-book-no
   
 ### Manual Testing
 
-- Browser Compatibility
-
-  - The website has been tested on the following browsers:
-
-    - **Goolgle Chrome**
-
-        No appearance, responsiveness nor functionality issues.
-
-    - **Safari**
-
-        No appearance, responsiveness nor functionality issues.
-
-    - **Mozilla Firefox**
-
-        There was and issue with the appearance of the book buttons on the treatments page expanding all the width. This issue was corrected by changing the width property value from "fit-content" to "max-content".
-
-        No responsiveness nor functionality issues.
-
-    - **Microsoft Edge**
-
-        No appearance, responsiveness nor functionality issues.
-
 - Device compatibility
 
   - The website has been tested on multiple devices, including:
 
-    - **MacBook Pro 15"**
-
-        No appearance, responsiveness nor functionality issues.
-
-    - **Dell Latitude 5300**
-
-        No appearance, responsiveness nor functionality issues.
-
-    - **iPad Pro 12.9"**
-
-        No appearance, responsiveness nor functionality issues.
-
-    - **iPad Pro 10.5"**
+    - **iPhone SE"**
 
         No appearance, responsiveness nor functionality issues.
 
@@ -301,7 +267,15 @@ Book Now | ![Desktop book now wireframe image](assets/wireframes/desktop-book-no
 
         No appearance, responsiveness nor functionality issues.
 
-    - **iPhone 7**
+    - **iPad Air**
+
+        No appearance, responsiveness nor functionality issues.
+
+    - **iPad Mini**
+
+        No appearance, responsiveness nor functionality issues.
+
+    - **Nest Hub Max**
 
         No appearance, responsiveness nor functionality issues.
 
@@ -325,19 +299,21 @@ Book Now | ![Desktop book now wireframe image](assets/wireframes/desktop-book-no
   
       - Clicking on the links of the pages will bring the users to the specified page.
 
-  - Treatments Page
+  - About Page
 
-    - Hovering on the book button link on each treatment section will trigger hover effect, highlighting the button for the customer.
+    - Clicking on the About page will bring the user to the About page.
 
-    - Clicking on the book button link on each treatment section will bring the customer to the book now page.
+  - Gallery  Page
 
-  - Book Now Page
+    - Clicking on the Gallery page will bring the user to the Gallery page.
+  
+  - Contact Page
+  
+    - Clicking on the Contact page will bring the user to the Contact page.
 
-    - When filling out the book now form, the customer is required to complete all fields before submitting.
+    - When filling out  the Get in touch form, the user have to press the send message to submit the form.
 
-    - Hovering over the book button will trigger hover effect, highlighting the button for the customer.
-
-    - Clicking and dragging on the map in the find us section will move the area shown on the map.
+    - Clicking and dragging on the map in the info  section will move the area shown on the map.
 
     - Clicking the plus and minus buttons changes the zoom of the map.
 
@@ -356,7 +332,7 @@ Book Now | ![Desktop book now page image](assets/readme-files/desktop-book-now.p
 
 ## Deployment
 
-- This website was developed using [GitPod](https://www.gitpod.io/), which was then committed and pushed to GitHub using the GitPod terminal.
+- This website was developed using [Codeanywhere](https://codeanywhere.com/), which was then committed and pushed to GitHub using the codeanywhere terminal.
 
 ### GitHub Pages
 
