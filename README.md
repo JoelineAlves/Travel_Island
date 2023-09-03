@@ -80,7 +80,7 @@ Our goal is to provide an easy-to-use application that meets user needs.
 
 ### Color Scheme
 
-![Color scheme image](assets/readme-files/color-scheme.png)
+![Color scheme image](assets/readme_files/palete.png)
 
 The colors used on the website are white in different tones used for focusing effects, in some paragraphs and also as background-color (#fafafa, #f9f9f9, #fff), an orange color also in different tones in rgba format for the titles in the navbar, icons, paragraphs in the footer and in the contact form and also as background-color (rgba(255, 166, 0, 0.959), rgba(247, 185, 72, 0.959)), gray as background navbar and footer, also used in the form (#333, rgb(112, 110, 110)), the color black is used in some headins and paragraphs. These colors are chosen to attract more attention from the website user and also to favor the Travel Island logo, and also for good readability and user perception.
 
@@ -184,9 +184,6 @@ Book Now | ![Desktop book now wireframe image](assets/wireframes/desktop-book-no
 
 - [Figma](https://www.figma.com/)
   - Figma was used to create the wireframes during the design phase of the project.
-
-- [Responsive Design Checker](https://www.responsivedesignchecker.com/)
-  - Responsive Design Checker was used in the testing process to check responsiveness on various devices.
 
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
   - Chrome DevTools was used during development process for code review and to test responsiveness.
