@@ -104,23 +104,23 @@ Book Now | ![Desktop book now wireframe image](assets/wireframes/desktop-book-no
 
 ### General
 
-- Responsive design across all device sizes.
+- Responsive design on all device sizes.
 
-- Similar color scheme and design throughout all pages to effectively structure, categorise and present the information to the customers.
+- Similar color scheme and design across all pages to structure, categorize, and present information attractively and effectively to customers.
 
 - **Header**
-![Header image](assets/readme-files/header.png)
+![Header image](assets/readme_files/header.png)
 
-  - The header contains the business logo and fully responsive navigation bar positioned across the top of the screen.
+  - The header contains the Travel Island  logo and fully responsive navigation bar positioned across the top of the screen.
 
-  - The business logo functions as a link to the landing page.
+  - The Travel Island logo functions as a link to the landing page.
 
   - The navigation bar is identical in all pages and contains links to all pages to facilitate navigation across the site. It also has a hover effect that changes color to provide feedback to the customer for a better user experience.
 
 - **Footer**
-![Footer image](assets/readme-files/footer.png)
+![Footer image](assets/readme_files/footer.png)
 
-  - The footer includes a smaller version of the logo and link to the business' social media channels.
+  - The footer includes the links to all pages and link to the travel Island social media channels.
 
 ### Landing Page
 
