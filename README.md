@@ -248,6 +248,26 @@ Contact | ![Desktop contact wireframe image](assets/wireframes/contact_desktop.j
 
 ### Accessibility
 
+- Used Lighthouse in Chrome DevTools to confirm that the colors and fonts being used in throughout the website are easy to read and accessible.
+
+- Lighthouse reports
+
+  - **Home Page**
+
+    ![Lighthouse report for home page image](assets/readme_files/lighthouse_index.png)
+
+  - **Gallery Page**
+
+    ![Lighthouse report for gallery page image](assets/readme_files/lighthouse_gallery.png)
+
+  - **About Page**
+
+    ![Lighthouse report for about page image](assets/readme_files/lighthouse_about.png)
+
+  - **Contact Page**
+
+    ![Lighthouse report for contact page image](assets/readme_files/lighthouse_contact.png)
+
 ### Tools Testing
 
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
@@ -258,7 +278,7 @@ Contact | ![Desktop contact wireframe image](assets/wireframes/contact_desktop.j
 
   - [Am I Responsive?](http://ami.responsivedesign.is/#) was used to check responsiveness of the site pages across different devices.
 
-    - [Responsive Design Checker](https://www.responsivedesignchecker.com/) was used to check responsiveness of the site pages on different screen sizes.
+  - [Responsive Design Checker](https://www.responsivedesignchecker.com/) was used to check responsiveness of the site pages on different screen sizes.
 
 - [Chrome DevTools](https://developer.chrome.com/docs/devtools/) Chrome DevTools was used to test responsiveness in different screen sizes during the development process.
   
