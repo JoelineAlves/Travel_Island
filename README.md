@@ -1,6 +1,6 @@
 # Travel Island
 
-![Travel Island  mockup images](assets/readme_files/mockup.jpg)
+![Travel Island  mockup images](assets/readme_files/mock_up.png)
 
 Travel Island is an online platform that aims to make known the services and tourist activities that visitors and lovers of the islands of Cape Verde will have the opportunity to do
 during their travels.
@@ -9,7 +9,7 @@ The platform highlights the various areas of activity and service, from the typi
 
 Platform's objective is to give greater visibility to Cape Verde, both internationally and nationally, bringing people closer to knowing more about the culture and the paradise that is the country and facilitating access to different services and activities. And, with that, boost the country's domestic tourism.
 
-Visit the deployed website [here](https://github.com/JoelineAlves/Travel_Island.git).
+Visit the deployed website [here](https://joelinealves.github.io/Travel_Island/).
 
 ## Table of Contents
 
@@ -95,8 +95,8 @@ The main font used on the site is Roboto, with Sans Serif as a fallback font if 
 Page | Desktop Version | Mobile Version
 --- | --- | ---
 Home | ![Desktop home wireframe image](assets/wireframes/carousel_desktop.jpg) | ![Mobile index wireframe image](assets/wireframes/index_mobile.jpg)
-Activities | ![Desktop activities wireframe image](assets/wireframes/card_desktop.jpg) | ![Mobile treatments wireframe image](assets/wireframes/mobile-treatments.png)
-About | ![Desktop about wireframe image](assets/wireframes/about_desktop.jpg) | ![Mobile book now wireframe image](assets/wireframes/mobile-book-now.png)
+Activities | ![Desktop activities wireframe image](assets/wireframes/card_desktop.jpg) | ![Mobile treatments wireframe image](assets/wireframes/index_mobile.jpg)
+About | ![Desktop about wireframe image](assets/wireframes/about_desktop.jpg) | ![Mobile book now wireframe image](assets/wireframes/about_mobile.jpg)
 Gallery | ![Desktop gallery wireframe image](assets/wireframes/gallery_desktop.jpg) | ![Mobile book now wireframe image](assets/wireframes/gallery_mobile.jpg)
 Contact | ![Desktop contact wireframe image](assets/wireframes/contact_desktop.jpg) | ![Mobile book now wireframe image](assets/wireframes/contact_mobile.jpg)
 
