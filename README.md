@@ -94,9 +94,11 @@ The main font used on the site is Roboto, with Sans Serif as a fallback font if 
 
 Page | Desktop Version | Mobile Version
 --- | --- | ---
-Index | ![Desktop index wireframe image](assets/wireframes/desktop-index.png) | ![Mobile index wireframe image](assets/wireframes/mobile-index.png)
-Treatments | ![Desktop treatments wireframe image](assets/wireframes/desktop-treatments.png) | ![Mobile treatments wireframe image](assets/wireframes/mobile-treatments.png)
-Book Now | ![Desktop book now wireframe image](assets/wireframes/desktop-book-now.png) | ![Mobile book now wireframe image](assets/wireframes/mobile-book-now.png)
+Home | ![Desktop home wireframe image](assets/wireframes/carousel_desktop.jpg) | ![Mobile index wireframe image](assets/wireframes/index_mobile.jpg)
+Activities | ![Desktop activities wireframe image](assets/wireframes/card_desktop.jpg) | ![Mobile treatments wireframe image](assets/wireframes/mobile-treatments.png)
+About | ![Desktop about wireframe image](assets/wireframes/about_desktop.jpg) | ![Mobile book now wireframe image](assets/wireframes/mobile-book-now.png)
+Gallery | ![Desktop gallery wireframe image](assets/wireframes/gallery_desktop.jpg) | ![Mobile book now wireframe image](assets/wireframes/gallery_mobile.jpg)
+Contact | ![Desktop contact wireframe image](assets/wireframes/contact_desktop.jpg) | ![Mobile book now wireframe image](assets/wireframes/contact_mobile.jpg)
 
 [Back to top ⇧](#travel-island)
 
