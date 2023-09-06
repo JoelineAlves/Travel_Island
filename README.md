@@ -284,6 +284,22 @@ Contact | ![Desktop contact wireframe image](assets/wireframes/contact_desktop.j
   
 ### Manual Testing
 
+- Browser Compatibility
+
+  - The website has been tested on the following browsers:
+
+    - **Goolgle Chrome**
+
+        No appearance, responsiveness nor functionality issues.
+
+    - **Safari**
+
+        No appearance, responsiveness nor functionality issues.
+
+    - **Microsoft Edge**
+
+        No appearance, responsiveness nor functionality issues.
+
 - Device compatibility
 
   - The website has been tested on multiple devices, including:
@@ -321,6 +337,8 @@ Contact | ![Desktop contact wireframe image](assets/wireframes/contact_desktop.j
       - Hovering on the different navigation bar's links will trigger hover effect, highlighting the link for the user.
 
       - Clicking on the navigation bar's links will bring the users to the specified page.
+
+      - I changed the css background of the navbar toggler, to make it visible on small devices, unfortunately the bootstrap navbar toggler that I used in the project has an issue that I was unable to resolve.
 
     - **Footer**
 

@@ -84,7 +84,10 @@ body {
 #services-area {
     background-color: #f9f9f9;
 
+
 }
+
+
 
 .main-title {
     color: #444;
@@ -107,13 +110,17 @@ body {
     color: #444;
     text-transform: uppercase;
     font-weight: bold;
+
 }
+
 
 .service-box p {
     font-size: 14px;
     color: #444;
 
 }
+
+
 
 /* footer */
 
