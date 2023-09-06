@@ -312,15 +312,23 @@ Contact | ![Desktop contact wireframe image](assets/wireframes/contact_desktop.j
 
         No appearance, responsiveness nor functionality issues.
 
-    - **iPad Air**
+    - **iPad**
 
         No appearance, responsiveness nor functionality issues.
 
-    - **iPad Mini**
+    - **iPhone 11**
 
         No appearance, responsiveness nor functionality issues.
 
-    - **Nest Hub Max**
+    - **iPhone 14 Pro**
+
+        No appearance, responsiveness nor functionality issues.
+
+    - **ASUS VivoBook**
+
+        No appearance, responsiveness nor functionality issues.
+
+    - **MacBook Pro 15"**
 
         No appearance, responsiveness nor functionality issues.
 
@@ -409,16 +417,16 @@ Book Now | ![Desktop book now page image](assets/readme-files/desktop-book-now.p
 
 - [Pexels](https://www.pexels.com/)
 
-  - Main image: "Waterfalls in the Middle of Green Trees" by Austin Tsai.
-  - 404 Error Page image: Taken by Artem Beliaikin.
+  - Gallery Page image: "Maio" by Victor Svistunov.
+  - Gallery Page image: "Pontao" by Victor Svistunov.
+  - Gallery Page image: "Bikini" by Alexander Akinyeye.
+  - Gallery Page image: "Buracona" by Alexander Akinyeye.
+  - Gallery Page image: "Salina" by Krisztian Tabori.
+  - Gallery Page image: "Pedra Lume" by Krisztian Tabori.
 
-- [Unsplash](https://unsplash.com/)
+- [Google](https://www.google.com/)
 
-  - About Us image: "Pristine water lily" by Jay Castor.
-  - Massage image: "Beautiful Woman Getting Stones Massage in Spa Salon" by Engin Akyurt.
-  - Facial image: Taken by Raphael Lovaski.
-  - Pedicure image: "Warm bath before treatment" by Rune Enstad.
-  - Book Now image: Taken by Firos Nv.
+  - Since Cape Verde is a very small country, it is difficult to find related images other than on Google.  
 
 ### Code
 
