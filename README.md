@@ -378,10 +378,11 @@ Contact | ![Desktop contact wireframe image](assets/wireframes/contact_desktop.j
 
 Page | Desktop version | Mobile version
 --- | --- | ---
-Index | ![Desktop index page image](assets/readme-files/desktop-index.png) | ![Mobile index page image](assets/readme-files/mobile-index.png)
-Treatments | ![Desktop treatments page image](assets/readme-files/desktop-treatments.png) | ![Mobile treatments page image](assets/readme-files/mobile-treatments.png)
-Book Now | ![Desktop book now page image](assets/readme-files/desktop-book-now.png) | ![Mobile book now page image](assets/readme-files/mobile-book-now.png)
-404 Error | ![Desktop 404 error page image](assets/readme-files/desktop-404.png) | ![Mobile 404 error page image](assets/readme-files/mobile-404.png)
+Home | ![Desktop home page image](assets/wireframes/carousel.png) | ![Mobile home page image](assets/readme-files/mobile-index.png)
+Activities | ![Desktop activities page image](assets/wireframes/activities.png) | ![Mobile treatments page image](assets/readme-files/mobile-treatments.png)
+About | ![Desktop about page image](assets/wireframes/about_us.png) | ![Mobile book now page image](assets/readme-files/mobile-book-now.png)
+Gallery | ![Desktop gallery page image](assets/wireframes/gallery.png) | ![Mobile 404 error page image](assets/readme-files/mobile-404.png)
+Contact | ![Desktop contact page image](assets/wireframes/contact.png) | ![Mobile 404 error page image](assets/readme-files/mobile-404.png)
 
 [Back to top ⇧](#travel-island)
 
