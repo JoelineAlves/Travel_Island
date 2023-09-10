@@ -94,11 +94,11 @@ The main font used on the site is Roboto, with Sans Serif as a fallback font if 
 
 Page | Desktop Version | Mobile Version
 --- | --- | ---
-Home | ![Desktop home wireframe image](assets/wireframes/carousel_desktop.png) | ![Mobile index wireframe image](assets/wireframes/index_mobile.jpg)
-Activities | ![Desktop activities wireframe image](assets/wireframes/card_desktop.png) | ![Mobile treatments wireframe image](assets/wireframes/index_mobile.jpg)
-About | ![Desktop about wireframe image](assets/wireframes/about_desktop.png) | ![Mobile book now wireframe image](assets/wireframes/about_mobile.jpg)
-Gallery | ![Desktop gallery wireframe image](assets/wireframes/gallery_desktop.png) | ![Mobile book now wireframe image](assets/wireframes/gallery_mobile.jpg)
-Contact | ![Desktop contact wireframe image](assets/wireframes/contact_desktop.png) | ![Mobile book now wireframe image](assets/wireframes/contact_mobile.jpg)
+Home | ![Desktop home wireframe image](assets/wireframes/carousel_desktop.png) | ![Mobile index wireframe image](assets/wireframes/carousel_mobile.png)
+Activities | ![Desktop activities wireframe image](assets/wireframes/card_desktop.png) | ![Mobile treatments wireframe image](assets/wireframes/card_mobile.png)
+About | ![Desktop about wireframe image](assets/wireframes/about_desktop.png) | ![Mobile book now wireframe image](assets/wireframes/about_mobile.png)
+Gallery | ![Desktop gallery wireframe image](assets/wireframes/gallery_desktop.png) | ![Mobile book now wireframe image](assets/wireframes/gallery_mobile.png)
+Contact | ![Desktop contact wireframe image](assets/wireframes/contact_desktop.png) | ![Mobile book now wireframe image](assets/wireframes/contact_mobile.png)
 
 [Back to top ⇧](#travel-island)
 
