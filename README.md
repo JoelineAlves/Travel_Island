@@ -187,6 +187,9 @@ Contact | ![Desktop contact wireframe image](assets/wireframes/contact_desktop.p
 - [Figma](https://www.figma.com/)
   - Figma was used to create the wireframes during the design phase of the project.
 
+- [Balsamiq](https://balsamiq.com/)
+  - Figma was used to create the wireframes during the design phase of the project.
+
 - [Am I Responsive?](http://ami.responsivedesign.is/#)
   - Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
   
@@ -378,11 +381,11 @@ Contact | ![Desktop contact wireframe image](assets/wireframes/contact_desktop.p
 
 Page | Desktop version | Mobile version
 --- | --- | ---
-Home | ![Desktop home page image](assets/wireframes/carousel.png) | ![Mobile home page image](assets/readme-files/mobile-index.png)
-Activities | ![Desktop activities page image](assets/wireframes/activities.png) | ![Mobile treatments page image](assets/readme-files/mobile-treatments.png)
-About | ![Desktop about page image](assets/wireframes/about_us.png) | ![Mobile book now page image](assets/readme-files/mobile-book-now.png)
-Gallery | ![Desktop gallery page image](assets/wireframes/gallery.png) | ![Mobile 404 error page image](assets/readme-files/mobile-404.png)
-Contact | ![Desktop contact page image](assets/wireframes/contact.png) | ![Mobile 404 error page image](assets/readme-files/mobile-404.png)
+Home | ![Desktop home page image](assets/wireframes/carousel.png) | ![Mobile home page image](assets/wireframes/carousel_final.png)
+Activities | ![Desktop activities page image](assets/wireframes/activities.png) | ![Mobile treatments page image](assets/wireframes/card_final.png)
+About | ![Desktop about page image](assets/wireframes/about_us.png) | ![Mobile book now page image](assets/wireframes/about_final.png)
+Gallery | ![Desktop gallery page image](assets/wireframes/gallery.png) | ![Mobile 404 error page image](assets/wireframes/gallery_final.png)
+Contact | ![Desktop contact page image](assets/wireframes/contact.png) | ![Mobile 404 error page image](assets/wireframes/contact_final.png)
 
 [Back to top ⇧](#travel-island)
 
