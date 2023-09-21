@@ -155,11 +155,11 @@ footer {
     opacity: 0.9;
 }
 
-/* hover effect on socialIcons */
+/* hover effect on socialIcons 
 .socialIcons a:hover {
     background-color: rgba(255, 166, 0, 0.959);
     transition: 0.5s;
-}
+} */
 
 /* change my mind
 .socialIcons a:hover i {
@@ -202,7 +202,7 @@ footer {
 }
 
 .footerBottom p {
-    color: rgba(255, 166, 0, 0.959);
+    color: #fff;
 
 }
 
