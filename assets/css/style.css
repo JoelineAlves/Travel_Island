@@ -160,10 +160,11 @@ footer {
     transition: 0.5s;
 }
 
+/* change my mind
 .socialIcons a:hover i {
     color: #808080;
     transition: 0.5s;
-}
+} */
 
 /* FooterNav */
 .footerNav {
