@@ -37,11 +37,11 @@ body {
 }
 
 #navbar-links a {
-    color: rgba(255, 166, 0, 0.959);
+    color: #fff;
 }
 
 #navbar-links a:hover {
-    color: #fff;
+    color: rgba(255, 166, 0, 0.959);
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
