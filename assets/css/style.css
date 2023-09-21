@@ -68,9 +68,10 @@ body {
 
 .carousel-caption p {
     font-size: 32px;
-    font-weight: 300;
+    font-weight: bold;
     margin-bottom: 100px;
     color: #fff;
+
 }
 
 .carousel-indicators .active {
