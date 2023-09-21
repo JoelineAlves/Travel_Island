@@ -178,7 +178,7 @@ footer {
 }
 
 .footerNav ul li a {
-    color: rgba(255, 166, 0, 0.959);
+    color: #fafafa;
     margin: 20px;
     text-decoration: none;
     font-size: 1.3em;
@@ -187,7 +187,7 @@ footer {
 }
 
 .footerNav ul li a:hover {
-    color: #fafafa;
+    color: rgba(255, 166, 0, 0.959);
     opacity: 1;
 }
 
