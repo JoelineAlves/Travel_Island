@@ -218,6 +218,7 @@ Contact | ![Desktop contact wireframe image](assets/wireframes/contact_desktop.p
   - The navigation bar is clearly presented in all pages even in the footer for the users to find with ease and it is easily navigable.
 
 - As a user, I want to be able to read more about the activities available.
+ ![Card activity image](assets/readme_files/card_activity.png)
 
   - Each card activities  contains useful information about the respective activity.
 
@@ -234,6 +235,7 @@ Contact | ![Desktop contact wireframe image](assets/wireframes/contact_desktop.p
   - The footer provides link to the social media channels.
 
 - As a user, I want to be able to send a message directly from the website.
+ ![Contact info image](assets/readme_files/contact_info.png)
 
   - As a user, I want to easily find the Travel Island location.
 
